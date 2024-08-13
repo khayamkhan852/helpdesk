@@ -10,7 +10,7 @@ setup(
 	name="helpdesk",
 	version=version,
 	description="custom updated in the official Frappe Helpdesk application",
-	author="khayam khan",
+	author="Khayam Khan",
 	author_email="khayamkhan852@gmail.com",
 	packages=find_packages(),
 	zip_safe=False,
